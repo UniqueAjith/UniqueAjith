@@ -29,7 +29,7 @@
  
 🌱 **Github Stats**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
- ![Github stats](https://github-readme-stats.vercel.app/api?username=UniquieAjith)  
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=UniqueAjith)  
  
  
  <hr>
