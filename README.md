@@ -39,9 +39,11 @@
          
 
 ---
-### Github Stats
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=UniqueAjith&hide_border=true&count_private=true&show_icons=true&theme=vision-friendly-dark" alt="Ajith" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=UniqueAjith&show_icons=true&locale=en&layout=compact&hide_border=true&theme=vision-friendly-dark" alt="Ajith" align = "center"/></p>
+Github Streaks: 
+
+[![Ajith's github activity graph](https://activity-graph.herokuapp.com/graph?username=UniqueAjith&theme=react-dark)](https://github.com/UniqueAjith/github-readme-activity-graph)
+
+
 
 ---
   </code>
